@@ -1,0 +1,29 @@
+{
+  "name": "bbot",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "configstore": "^6.0.0",
+    "dotenv": "^10.0.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.5",
+    "moralis": "^0.0.163"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
